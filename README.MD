@@ -1,6 +1,6 @@
-# RoboEDMS
+# Robocad
 
-ETL bot for transferring data from delo-web information system to EDMS68 Information System.
+Robot for parsing on Selenium.
 
 <table>
 	<tr>
